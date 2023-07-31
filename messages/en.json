@@ -1,0 +1,12 @@
+{
+  "Index": {
+    "title": "Hello My Name is Jarko",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+
+  },
+  "About": {
+    "title": "This is my About Page",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. "
+  }
+}
+
